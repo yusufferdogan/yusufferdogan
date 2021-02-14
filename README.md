@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/yusufferdogan">
+<img align="center" alt="yusufferdogan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yusufferdogan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
+<a href="https://github.com/yusufferdogan">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yusufferdogan&layout=compact&theme=radical" />
+</a>
