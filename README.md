@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**yusufferdogan/yusufferdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd year student at Gebze Technical University.I am eager to develop software and mobile
+applications.In addition to my school classes, i am learning to make mobile applications with udemy courses .
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
