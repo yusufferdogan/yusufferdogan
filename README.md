@@ -35,6 +35,12 @@ I am a 3rd year student at Gebze Technical University. I am a Flutter Developer
 <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
 </code>](https://www.jetbrains.com/pycharm/)
 [<code>
+<img alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png">
+</code>](https://en.wikipedia.org/wiki/C_(programming_language))
+[<code>
+<img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
+</code>](https://en.wikipedia.org/wiki/C%2B%2B)
+[<code>
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
 </code>](https://docs.oracle.com/en/java/)
 [<code>
