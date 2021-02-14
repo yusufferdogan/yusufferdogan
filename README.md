@@ -12,8 +12,16 @@ I am a 3rd year student at Gebze Technical University. I am a Flutter Developer
 - 🔭 I’m currently Searching for an intern
 - 🌱 I’m currently learning Flutter,Java
 - 👯 I’m looking to collaborate on Open Source Projects
-
 ### Languages and Tools:
+[<code>
+<img alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
+</code>](https://flutter.dev)
+[<code>
+<img alt="Dart" width="26px" src="https://img.icons8.com/color/48/000000/dart.png" />
+</code>](https://dart.dev)
+[<code>
+<img alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" />
+</code>](https://firebase.google.com)
 [<code>
 <img alt="Android studio" width="26px" src="https://img.icons8.com/fluent/48/000000/android-os.png" />
 </code>](https://developer.android.com/studio)
@@ -34,7 +42,7 @@ I am a 3rd year student at Gebze Technical University. I am a Flutter Developer
 <img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
 </code>](https://www.latex-project.org/)
 [<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
+<img alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png">
 </code>](https://git-scm.com/)
 [<code>
 <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
