@@ -1,5 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="www.linkedin.com/in/yusuf-erdoğan">
+  <img align="left" alt="Yusuf Erdoğan's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 I am a 3rd year student at Gebze Technical University.I am eager to develop software and mobile
 applications.In addition to my school classes, i am learning to make mobile applications with udemy courses .
 
