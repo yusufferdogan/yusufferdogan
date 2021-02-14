@@ -15,9 +15,8 @@ I am a 3rd year student at Gebze Technical University. I am a Flutter Developer
 
 ### Languages and Tools:
 [<code>
-<img alt="Android studio" width="26px" src="https://siberataksavunma.com/wp-content/uploads/2019/10/sa.png" />
+<img alt="Android studio" width="26px" src="https://img.icons8.com/fluent/48/000000/android-os.png" />
 </code>](https://developer.android.com/studio)
-[![firebase](https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png)](https://firebase.google.com/)
 [<code>
 <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
 </code>](https://www.jetbrains.com/idea/)
