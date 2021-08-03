@@ -60,4 +60,6 @@ I am a 3rd year student at Gebze Technical University. I am a Flutter Developer
 </code>](https://www.kernel.org/)
 <br />
 
+![yusuf's github stats](https://github-readme-stats.vercel.app/api?username=yusufferdogan&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufferdogan&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
