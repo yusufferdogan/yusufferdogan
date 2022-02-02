@@ -6,13 +6,16 @@
 <br />
 <br />
 
-I am a 3rd year student at Gebze Technical University. I am a Flutter Developer
+I am a 4rd year student at Gebze Technical University.
 
 
-- 🔭 I’m currently Searching for an intern
-- 🌱 I’m currently learning Flutter,Java
+- 🔭 I’m currently looking for an internship
+- 🌱 I’m currently learning Flutter,Java,React,Spring
 - 👯 I’m looking to collaborate on Open Source Projects
 ### Languages and Tools:
+[<code>
+<img alt="React" width="26px" src="https://img.icons8.com/wired/64/000000/react.png" />
+</code>](https://flutter.dev)
 [<code>
 <img alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
 </code>](https://flutter.dev)
