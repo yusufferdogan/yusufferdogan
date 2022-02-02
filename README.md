@@ -14,7 +14,7 @@ I am a 4rd year student at Gebze Technical University.
 - 👯 I’m looking to collaborate on Open Source Projects
 ### Languages and Tools:
 [<code>
-<img alt="React" width="26px" src="https://seeklogo.com/images/S/spring-boot-logo-9D6125D4E7-seeklogo.com.png" />
+<img alt="React" width="26px" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-leaf-spring-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" />
 </code>](https://spring.io)
 [<code>
 [<code>
