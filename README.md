@@ -10,10 +10,10 @@ I am a 4rd year student at Gebze Technical University.
 
 - I am Blockchain Developer
 - I am very good at Solidity,Hardhat,TS,Smart Contract testing.
-- 👯 I’m looking to collaborate on Open Source Projects
+- I am looking to collaborate on Open Source Projects
 ### Languages and Tools:
 [<code>
-<img src="https://img.icons8.com/ios-filled/50/000000/solidity.png"/>
+<img width="26px" src="https://img.icons8.com/ios-filled/50/000000/solidity.png"/>
 </code>]([https://www.jetbrains.com/pycharm/](https://docs.soliditylang.org/en/v0.8.15/))
 [<code>
 <img alt="React" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRorATuT3iIKZOcvEVkxQSaDpABNtEeqfZeC8Jzcou4i9237nO8xaTDyYDgx40F5fHKDiA&usqp=CAU"/>
