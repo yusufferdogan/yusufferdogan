@@ -9,8 +9,12 @@ I am a 4rd year student at Gebze Technical University.
 
 
 - I am Blockchain Developer
+- I am very good at Solidity,Hardhat,TS,Smart Contracts and testing.
 - 👯 I’m looking to collaborate on Open Source Projects
 ### Languages and Tools:
+[<code>
+<img src="https://img.icons8.com/ios-filled/50/000000/solidity.png"/>
+</code>]([https://www.jetbrains.com/pycharm/](https://docs.soliditylang.org/en/v0.8.15/))
 [<code>
 <img alt="React" width="26px" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-leaf-spring-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
 </code>](https://spring.io)
@@ -36,9 +40,6 @@ I am a 4rd year student at Gebze Technical University.
 <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
 </code>](https://www.jetbrains.com/idea/)
 [<code>
-<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
-</code>](https://www.jetbrains.com/pycharm/)
-[<code>
 <img alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png">
 </code>](https://en.wikipedia.org/wiki/C_(programming_language))
 [<code>
@@ -56,9 +57,6 @@ I am a 4rd year student at Gebze Technical University.
 [<code>
 <img alt="github" width="26px" src="https://img.icons8.com/color/48/000000/git.png">
 </code>](https://github.com/)
-[<code>
-<img alt="Manjaro" width="26px" src="https://manjaro.org/img/logo.svg">
-</code>](https://manjaro.org)
 [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
