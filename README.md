@@ -17,7 +17,7 @@ I am a 4rd year student at Gebze Technical University.
 </code>]([https://www.jetbrains.com/pycharm/](https://docs.soliditylang.org/en/v0.8.15/))
 [<code>
 <img alt="React" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRorATuT3iIKZOcvEVkxQSaDpABNtEeqfZeC8Jzcou4i9237nO8xaTDyYDgx40F5fHKDiA&usqp=CAU"/>
-</code>](https://spring.io)
+</code>](https://hardhat.org/)
 [<code>
 <img alt="React" width="26px" src="https://img.icons8.com/wired/64/000000/react.png" />
 </code>](https://reactjs.org)
