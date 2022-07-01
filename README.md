@@ -73,7 +73,7 @@ I am a 4rd year student at Gebze Technical University.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufferdogan&hide=javascript,html,css)" />
 </a>
 
-![yusuf's github stats](https://github-readme-stats.vercel.app/api?username=yusufferdogan&show_icons=true&theme=radical)
+<!-- ![yusuf's github stats](https://github-readme-stats.vercel.app/api?username=yusufferdogan&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufferdogan&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufferdogan&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats) -->
 
