@@ -67,7 +67,7 @@ I am a 4rd year student at Gebze Technical University.
 </code>](https://yusufferdogan.github.io/)
 
 
-![yusuf's github stats](https://github-readme-stats.vercel.app/api?username=yusufferdogan&show_icons=true&theme=radical)
+![yusuf's github stats](https://github-readme-stats.vercel.app/api?username=yusufferdogan&show_icons=true&theme=radical&layout=compact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufferdogan&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
