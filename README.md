@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 
 <a href="https://www.linkedin.com/in/yusuf--erdogan">
   <img align="left" alt="Yusuf Erdoğan's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -9,8 +9,7 @@
 I am a 4rd year student at Gebze Technical University.
 
 
-- 🔭 I’m currently looking for an internship
-- 🌱 I’m currently learning Flutter,Java,React,Spring
+- I am Blockchain Developer
 - 👯 I’m looking to collaborate on Open Source Projects
 ### Languages and Tools:
 [<code>
