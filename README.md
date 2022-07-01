@@ -62,7 +62,8 @@ I am a 4rd year student at Gebze Technical University.
 </code>](https://www.kernel.org/)
 <br />
 
-<img alt="linux" width="100px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/buymeacoffee_logo_icon_169441.png">
+[<code>
+<img alt="linux" width="250px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/buymeacoffee_logo_icon_169441.png">
 </code>](https://www.yusufferdogan.github.io)
 
 ![yusuf's github stats](https://github-readme-stats.vercel.app/api?username=yusufferdogan&show_icons=true&theme=radical)
