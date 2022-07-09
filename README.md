@@ -9,7 +9,7 @@ I am a 4rd year student at Gebze Technical University.
 
 
 - I am Blockchain Developer
-- I am very good at Solidity,Hardhat,TS,Smart Contract testing.
+- I am specialized at Blockchain,Solidity,Hardhat,TS,Smart Contract testing.
 - I am looking to collaborate on Open Source Projects
 ### Languages and Tools:
 [<code>
