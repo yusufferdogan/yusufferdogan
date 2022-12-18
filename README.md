@@ -5,10 +5,8 @@
 <br />
 <br />
 
-I am a 4rd year student at Gebze Technical University.
+Blockchain developer. Developing on EVM with Solidity.
 
-
-- I am Blockchain Developer
 - I am specialized at Blockchain,Solidity,Hardhat,TS,Smart Contract testing.
 - I am looking to collaborate on Open Source Projects
 ### Languages and Tools:
