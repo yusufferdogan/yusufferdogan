@@ -10,10 +10,6 @@ Blockchain developer. Developing on EVM with Solidity.
 - I am specialized at Blockchain,Solidity,Hardhat,TS,Smart Contract testing.
 - I am looking to collaborate on Open Source Projects
 <br />
-[<code>
-<img alt="linux" width="250px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/buymeacoffee_logo_icon_169441.png">
-</code>](https://yusufferdogan.github.io/)
-
 
 ![yusuf's github stats](https://github-readme-stats.vercel.app/api?username=yusufferdogan&show_icons=true&theme=tokyonight&layout=compact)
 
