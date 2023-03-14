@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with [hardhat-foundry-template](https://github.com/yusufferdogan/hardhat-foundry-template)
 
-- 👨‍💻 All of my projects are available at [portfolio](https://drive.google.com/file/d/1MEqRtibHAFYJCCbUS6lUIvXaoyHfxkxj/view)
+- 👨‍💻 All of my projects are available at [Portfolio](https://drive.google.com/file/d/1MEqRtibHAFYJCCbUS6lUIvXaoyHfxkxj/view)
 
 - 💬 Ask me about **Solidity,EVM,Ethereum**
 
 - 📫 How to reach me **yusuff2403@gmail.com**
 
-- 📝 I regularly write articles on [mirror](https://mirror.xyz/0xE3004Ed52154BfA442C3eD70E924E9C32897Aee5)
+- 📝 I regularly write articles on [Mirror](https://mirror.xyz/0xE3004Ed52154BfA442C3eD70E924E9C32897Aee5)
 
-- 📄 Know about my experiences [cv](https://drive.google.com/file/d/1raw_sfSVPgKYlZUdBq7TxIpk-cDTnNYh/view)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1raw_sfSVPgKYlZUdBq7TxIpk-cDTnNYh/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
