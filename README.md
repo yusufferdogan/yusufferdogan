@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://drive.google.com/file/d/1MEqRtibHAFYJCCbUS6lUIvXaoyHfxkxj/view)
 
-- 💬 Ask me about **Solidity,EVM,Ethereum**
+- 💬 Ask me about **Solidity, EVM, Ethereum**
 
 - 📫 How to reach me **yusuff2403@gmail.com**
 
