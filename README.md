@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **Bixos**
 
-- 🌱 I’m currently learning **Foundry.rs**
+- 🏆 Checkout my recent project [starkrevoke](https://www.starkrevoke.com/)
 
-- 👯 I’m looking to collaborate on [NftFlagWar](https://github.com/SCDEVSTR/NFTFlagWar---Solidity)
+- 🌱 I’m currently learning **Cairo & Starknet**
 
-- 🤝 I’m looking for help with [hardhat-foundry-template](https://github.com/yusufferdogan/hardhat-foundry-template)
+- 👯 I’m looking to collaborate on [STARKREVOKE.COM](https://github.com/yusufferdogan/STARKREVOKE)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://drive.google.com/file/d/1MEqRtibHAFYJCCbUS6lUIvXaoyHfxkxj/view)
 
-- 💬 Ask me about **Solidity, EVM, Ethereum**
+- 💬 Ask me about **Solidity, Starknet, Cairo**
 
 - 📫 How to reach me **yusuff2403@gmail.com**
 
