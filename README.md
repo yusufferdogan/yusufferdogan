@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf Erdoğan</h1>
-<h3 align="center">Blockchain developer. Developing Smart Contracts with Solidity.</h3>
+<h3 align="center"> 👨‍💻 Blockchain Developer with 5 years of experience - 💎 Ethereum 🌐 Solidity ⚡ Starknet 🦀 Rust 🔺 Cairo 📕 ZK Proofs </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufferdogan&label=Profile%20views&color=0e75b6&style=flat" alt="yusufferdogan" /> </p>
 
