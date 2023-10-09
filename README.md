@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [Mirror](https://mirror.xyz/0xE3004Ed52154BfA442C3eD70E924E9C32897Aee5)
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1raw_sfSVPgKYlZUdBq7TxIpk-cDTnNYh/view)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/15Jz-cbKJBPfwXh9V2qlvpeaBAlFgODIO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
