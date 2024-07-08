@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufferdogan&label=Profile%20views&color=0e75b6&style=flat" alt="yusufferdogan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufferdogan" alt="yusufferdogan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufferdogan&no-bg=true&column=5&margin-w=15&margin-h=15&theme=dark_lover" alt="yusufferdogan" /></a> </p>
 
 - 🔭 I’m open to Work.
 
